@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<filters>
+    <filter>
+        <item>Ноутбуки</item>
+        <brand>HP</brand>
+        <sum>50000</sum>
+    </filter>
+    <filter>
+        <item>Монітори</item>
+        <brand>HP</brand>
+        <sum>40000</sum>
+    </filter>
+    <filter>
+        <item>Ноутбуки</item>
+        <brand>DELL</brand>
+        <sum>50000</sum>
+    </filter>
+    <filter>
+        <item>Телефони</item>
+        <brand>Apple</brand>
+        <sum>50000</sum>
+    </filter>
+    <filter>
+        <item>Телефони</item>
+        <brand>Samsung</brand>
+        <sum>50000</sum>
+    </filter>
+</filters>
